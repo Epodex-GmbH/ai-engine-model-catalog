@@ -1,6 +1,6 @@
 {
-  "version": "1.18",
-  "updated_at": "2026-09-28T08:38:41Z",
+  "version": "1.19",
+  "updated_at": "2026-09-28T08:51:21Z",
   "providers": {
     "openai": {
       "default_model": "gpt-5.6-luna",
@@ -59,6 +59,18 @@
         {
           "name": "moonshotai/kimi-k2.6",
           "display_name": "Kimi K2.6"
+        },
+        {
+          "name": "anthropic/claude-sonnet-5",
+          "display_name": "Claude Sonnet 5"
+        },
+        {
+          "name": "anthropic/claude-opus-5.5",
+          "display_name": "Claude Opus 5.5"
+        },
+        {
+          "name": "anthropic/claude-opus-5",
+          "display_name": "Claude Opus 5"
         }
       ]
     }
