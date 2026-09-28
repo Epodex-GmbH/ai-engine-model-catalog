@@ -1,9 +1,9 @@
 {
-  "version": "1.17",
-  "updated_at": "2026-09-28T08:36:45Z",
+  "version": "1.18",
+  "updated_at": "2026-09-28T08:38:41Z",
   "providers": {
     "openai": {
-      "default_model": "gpt-6-sol",
+      "default_model": "gpt-5.6-luna",
       "additional_visible_models": [
         {
           "name": "gpt-6-sol"
@@ -26,7 +26,7 @@
       ]
     },
     "openrouter": {
-      "default_model": "z-ai/glm-5.3",
+      "default_model": "deepseek/deepseek-v4.1-flash",
       "additional_visible_models": [
         {
           "name": "z-ai/glm-5.3",
